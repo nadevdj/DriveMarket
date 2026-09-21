@@ -1,2 +1,7 @@
 cree le controler 
 cree  une vue 
+
+POUR GIUTHUB
+git add .
+git commit -m "Description de la modification"
+git push
