@@ -1,0 +1,2 @@
+cree le controler 
+cree  une vue 
